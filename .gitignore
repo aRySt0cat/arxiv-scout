@@ -1,2 +1,5 @@
 papers/*.md
+!papers/.gitkeep
+papers/*
 data/*.csv
+.DS_Store

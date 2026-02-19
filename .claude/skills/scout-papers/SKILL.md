@@ -45,7 +45,10 @@ When asked to do a deep review (detailed summary with commentary):
      ```
      ![Figure 1: caption](figure1.png)
      ```
-   - Include only the most relevant figures (typically Figure 1 and key result figures)
+   - **Figure selection**: Include only 1-2 figures per paper. Prioritize:
+     - The main conceptual overview figure (typically Figure 1) that conveys the paper's idea at a glance
+     - Optionally one key result figure if it is visually compelling
+     - Do NOT include detailed ablation charts, tables-as-figures, or supplementary plots
 
 ## CSV Schema
 
